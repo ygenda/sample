@@ -1,4 +1,4 @@
 This is a sample repository.
 New line added.
-
+----------------
 Writer: Yuiti Genda
